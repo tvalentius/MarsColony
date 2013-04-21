@@ -1,0 +1,60 @@
+/* Global Element */
+html{
+}
+
+body{
+	margin:0; padding:0;
+	height:100%;
+	font-family:Tahoma;
+	font-size:14px;
+}
+
+p {	margin:0; padding:0; }
+
+a {
+	text-decoration:none;
+	color:#20277d;
+}
+a:hover{
+	color:#3960c6;
+}
+
+/*-----------------------------------------------------------*/
+
+.main_wrapper {
+	margin:auto;
+}
+.main_position {
+	margin:auto;
+}
+
+.content {
+	min-height:300px;
+	border:3px ridge;
+	padding:10px;
+	margin:10px 0 10px 0;
+}
+
+.message_error {
+	border-radius: 5px;
+	background-color:#f25b5b;
+	color:#fffbfb;
+	text-align:center;
+	padding:10px;
+}
+
+.message_success {
+	border-radius: 5px;
+	background-color:#77fb7d;
+	color:#496464;
+	text-align:center;
+	padding:10px;
+}
+
+.message_general {
+	border-radius: 5px;
+	background-color:#84fff9;
+	color:#000000;
+	text-align:center;
+	padding:10px;
+}

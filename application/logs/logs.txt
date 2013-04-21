@@ -1,0 +1,2280 @@
+
+			Time : 26-03-13 06:34:53
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+)
+
+			Time : 26-03-13 06:35:39
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+)
+
+			Time : 26-03-13 06:35:39
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364319339
+)
+
+			Time : 26-03-13 08:38:17
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 200
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364326697
+)
+
+			Time : 26-03-13 08:40:24
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 300
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364326824
+)
+
+			Time : 26-03-13 08:51:32
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 400
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364327492
+)
+
+			Time : 26-03-13 09:09:56
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 600
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364328596
+)
+
+			Time : 26-03-13 09:39:46
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 700
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364330386
+)
+
+			Time : 26-03-13 09:50:13
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 800
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364331013
+)
+
+			Time : 26-03-13 09:52:19
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 900
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364331139
+)
+
+			Time : 26-03-13 09:54:02
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 1300
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364331242
+)
+
+			Time : 26-03-13 09:57:11
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 1800
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364331431
+)
+
+			Time : 26-03-13 09:59:09
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 1900
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364331549
+)
+
+			Time : 26-03-13 10:02:21
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 2300
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364331741
+)
+
+			Time : 26-03-13 10:03:48
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 2500
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364331828
+)
+
+			Time : 26-03-13 10:04:32
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 2800
+    [user_cash] => 1100
+    [curdate] => 2013-03-26
+    [timestamp] => 1364331872
+)
+
+			Time : 02-04-13 02:32:07
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 2900
+    [user_cash] => 1100
+    [curdate] => 2013-04-02
+    [timestamp] => 1364862727
+)
+
+			Time : 02-04-13 02:36:08
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 3100
+    [user_cash] => 1101
+    [curdate] => 2013-04-02
+    [timestamp] => 1364862968
+)
+
+			Time : 02-04-13 02:38:18
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 3100
+    [user_cash] => 1101
+    [curdate] => 2013-04-02
+    [timestamp] => 1364863098
+)
+
+			Time : 02-04-13 02:43:18
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 3400
+    [user_cash] => 1104
+    [curdate] => 2013-04-02
+    [timestamp] => 1364863398
+)
+
+			Time : 02-04-13 02:46:34
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 3700
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364863594
+)
+
+			Time : 02-04-13 02:46:56
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 3800
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364863616
+)
+
+			Time : 02-04-13 02:49:18
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 4200
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364863758
+)
+
+			Time : 02-04-13 03:09:03
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 4500
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364864943
+)
+
+			Time : 02-04-13 03:16:20
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 4900
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364865380
+)
+
+			Time : 02-04-13 03:30:06
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 5000
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364866206
+)
+
+			Time : 02-04-13 03:33:42
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 5500
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364866422
+)
+
+			Time : 02-04-13 03:36:16
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 5700
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364866576
+)
+
+			Time : 02-04-13 03:38:41
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 5800
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364866721
+)
+
+			Time : 02-04-13 03:41:48
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 6100
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364866908
+)
+
+			Time : 02-04-13 03:39:59
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 6200
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364909999
+)
+
+			Time : 02-04-13 04:19:54
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 6900
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364912394
+)
+
+			Time : 02-04-13 05:09:03
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 7100
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364915343
+)
+
+			Time : 02-04-13 05:18:21
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 7800
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364915901
+)
+
+			Time : 02-04-13 05:45:02
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 9000
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364917502
+)
+
+			Time : 02-04-13 05:59:29
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 9300
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364918369
+)
+
+			Time : 02-04-13 06:03:06
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 9400
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364918586
+)
+
+			Time : 02-04-13 07:59:40
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 9800
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364925580
+)
+
+			Time : 02-04-13 08:26:09
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 10900
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364927169
+)
+
+			Time : 02-04-13 09:18:18
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 11500
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364930298
+)
+
+			Time : 02-04-13 09:30:31
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 11600
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364931031
+)
+
+			Time : 02-04-13 09:34:01
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 11700
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364931241
+)
+
+			Time : 02-04-13 09:39:09
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 11700
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364931549
+)
+
+			Time : 02-04-13 09:40:51
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 11700
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364931651
+)
+
+			Time : 02-04-13 09:41:59
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 11800
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364931719
+)
+
+			Time : 02-04-13 09:42:29
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 11800
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364931749
+)
+
+			Time : 02-04-13 09:44:55
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 11900
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364931895
+)
+
+			Time : 02-04-13 09:51:36
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 12500
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364932296
+)
+
+			Time : 02-04-13 09:57:25
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 12900
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364932645
+)
+
+			Time : 02-04-13 10:00:16
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 13000
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364932816
+)
+
+			Time : 02-04-13 10:06:40
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 13300
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364933200
+)
+
+			Time : 02-04-13 10:07:38
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 13400
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364933258
+)
+
+			Time : 02-04-13 10:12:41
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 14000
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364933561
+)
+
+			Time : 02-04-13 10:18:18
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 14600
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364933898
+)
+
+			Time : 02-04-13 10:21:53
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 14800
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364934113
+)
+
+			Time : 02-04-13 10:21:58
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 14800
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364934118
+)
+
+			Time : 02-04-13 10:30:39
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 15000
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364934639
+)
+
+			Time : 02-04-13 10:36:03
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 15100
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364934963
+)
+
+			Time : 02-04-13 10:39:31
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 15600
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364935171
+)
+
+			Time : 02-04-13 10:44:03
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 15900
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364935443
+)
+
+			Time : 02-04-13 10:45:16
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 15900
+    [user_cash] => 1105
+    [curdate] => 2013-04-02
+    [timestamp] => 1364935516
+)
+
+			Time : 07-04-13 05:36:56
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 16000
+    [user_cash] => 1130
+    [curdate] => 2013-04-07
+    [timestamp] => 1365349016
+)
+
+			Time : 07-04-13 05:42:33
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 16100
+    [user_cash] => 1130
+    [curdate] => 2013-04-07
+    [timestamp] => 1365349353
+)
+
+			Time : 07-04-13 06:00:58
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 16200
+    [user_cash] => 1130
+    [curdate] => 2013-04-07
+    [timestamp] => 1365350458
+)
+
+			Time : 07-04-13 06:07:01
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 16300
+    [user_cash] => 1130
+    [curdate] => 2013-04-07
+    [timestamp] => 1365350821
+)
+
+			Time : 07-04-13 06:07:23
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 16300
+    [user_cash] => 1130
+    [curdate] => 2013-04-07
+    [timestamp] => 1365350843
+)
+
+			Time : 07-04-13 06:18:48
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 16600
+    [user_cash] => 1130
+    [curdate] => 2013-04-07
+    [timestamp] => 1365351528
+)
+
+			Time : 07-04-13 06:34:10
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 16600
+    [user_cash] => 1130
+    [curdate] => 2013-04-07
+    [timestamp] => 1365352450
+)
+
+			Time : 07-04-13 06:45:01
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 16700
+    [user_cash] => 1130
+    [curdate] => 2013-04-07
+    [timestamp] => 1365353101
+)
+
+			Time : 07-04-13 07:43:07
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 17200
+    [user_cash] => 1130
+    [curdate] => 2013-04-07
+    [timestamp] => 1365356587
+)
+
+			Time : 07-04-13 07:46:20
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 18100
+    [user_cash] => 1130
+    [curdate] => 2013-04-07
+    [timestamp] => 1365356780
+)
+
+			Time : 08-04-13 06:26:07
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 18300
+    [user_cash] => 1130
+    [curdate] => 2013-04-08
+    [timestamp] => 1365438367
+)
+
+			Time : 08-04-13 06:29:07
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 18400
+    [user_cash] => 1130
+    [curdate] => 2013-04-08
+    [timestamp] => 1365438547
+)
+
+			Time : 08-04-13 06:31:32
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 18500
+    [user_cash] => 1130
+    [curdate] => 2013-04-08
+    [timestamp] => 1365438692
+)
+
+			Time : 08-04-13 06:48:53
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 18600
+    [user_cash] => 1130
+    [curdate] => 2013-04-08
+    [timestamp] => 1365439733
+)
+
+			Time : 08-04-13 06:49:12
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 18600
+    [user_cash] => 1130
+    [curdate] => 2013-04-08
+    [timestamp] => 1365439752
+)
+
+			Time : 08-04-13 06:50:49
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 18600
+    [user_cash] => 1130
+    [curdate] => 2013-04-08
+    [timestamp] => 1365439849
+)
+
+			Time : 08-04-13 06:54:08
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 18600
+    [user_cash] => 1130
+    [curdate] => 2013-04-08
+    [timestamp] => 1365440048
+)
+
+			Time : 08-04-13 06:58:26
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 18800
+    [user_cash] => 1130
+    [curdate] => 2013-04-08
+    [timestamp] => 1365440306
+)
+
+			Time : 08-04-13 07:02:14
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 18900
+    [user_cash] => 1105
+    [curdate] => 2013-04-08
+    [timestamp] => 1365440534
+)
+
+			Time : 11-04-13 06:10:55
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 19100
+    [user_cash] => 1105
+    [curdate] => 2013-04-11
+    [timestamp] => 1365696655
+)
+
+			Time : 13-04-13 05:02:11
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 19100
+    [user_cash] => 1105
+    [curdate] => 2013-04-13
+    [timestamp] => 1365865331
+)
+
+			Time : 13-04-13 05:30:39
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 19300
+    [user_cash] => 1115
+    [curdate] => 2013-04-13
+    [timestamp] => 1365867039
+)
+
+			Time : 13-04-13 07:03:49
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 19800
+    [user_cash] => 1110
+    [curdate] => 2013-04-13
+    [timestamp] => 1365872629
+)
+
+			Time : 13-04-13 09:49:34
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 20100
+    [user_cash] => 1110
+    [curdate] => 2013-04-13
+    [timestamp] => 1365882574
+)
+
+			Time : 14-04-13 01:56:08
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 20100
+    [user_cash] => 1210
+    [curdate] => 2013-04-14
+    [timestamp] => 1365897368
+)
+
+			Time : 14-04-13 07:32:29
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 20200
+    [user_cash] => 1200
+    [curdate] => 2013-04-14
+    [timestamp] => 1365917549
+)
+
+			Time : 14-04-13 07:36:23
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 20300
+    [user_cash] => 1205
+    [curdate] => 2013-04-14
+    [timestamp] => 1365917783
+)
+
+			Time : 14-04-13 07:41:00
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 20400
+    [user_cash] => 1206
+    [curdate] => 2013-04-14
+    [timestamp] => 1365918060
+)
+
+			Time : 14-04-13 07:41:35
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 20500
+    [user_cash] => 1207
+    [curdate] => 2013-04-14
+    [timestamp] => 1365918095
+)
+
+			Time : 14-04-13 07:43:50
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 20600
+    [user_cash] => 1208
+    [curdate] => 2013-04-14
+    [timestamp] => 1365918230
+)
+
+			Time : 14-04-13 07:44:11
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 20700
+    [user_cash] => 1198
+    [curdate] => 2013-04-14
+    [timestamp] => 1365918251
+)
+
+			Time : 14-04-13 07:46:46
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 20800
+    [user_cash] => 1188
+    [curdate] => 2013-04-14
+    [timestamp] => 1365918406
+)
+
+			Time : 14-04-13 07:55:01
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 20900
+    [user_cash] => 1178
+    [curdate] => 2013-04-14
+    [timestamp] => 1365918901
+)
+
+			Time : 14-04-13 07:58:34
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 21200
+    [user_cash] => 1208
+    [curdate] => 2013-04-14
+    [timestamp] => 1365919114
+)
+
+			Time : 14-04-13 08:05:03
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 21300
+    [user_cash] => 1213
+    [curdate] => 2013-04-14
+    [timestamp] => 1365919503
+)
+
+			Time : 14-04-13 08:07:50
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 21400
+    [user_cash] => 1218
+    [curdate] => 2013-04-14
+    [timestamp] => 1365919670
+)
+
+			Time : 14-04-13 08:11:47
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 21500
+    [user_cash] => 1228
+    [curdate] => 2013-04-14
+    [timestamp] => 1365919907
+)
+
+			Time : 14-04-13 08:12:23
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 21600
+    [user_cash] => 1208
+    [curdate] => 2013-04-14
+    [timestamp] => 1365919943
+)
+
+			Time : 14-04-13 08:12:53
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 21700
+    [user_cash] => 1209
+    [curdate] => 2013-04-14
+    [timestamp] => 1365919973
+)
+
+			Time : 14-04-13 08:13:31
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 21800
+    [user_cash] => 1207
+    [curdate] => 2013-04-14
+    [timestamp] => 1365920011
+)
+
+			Time : 14-04-13 08:15:39
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 21900
+    [user_cash] => 1212
+    [curdate] => 2013-04-14
+    [timestamp] => 1365920139
+)
+
+			Time : 14-04-13 08:27:58
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 22000
+    [user_cash] => 1217
+    [curdate] => 2013-04-14
+    [timestamp] => 1365920878
+)
+
+			Time : 14-04-13 08:30:38
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 22100
+    [user_cash] => 1207
+    [curdate] => 2013-04-14
+    [timestamp] => 1365921038
+)
+
+			Time : 14-04-13 08:32:36
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 22200
+    [user_cash] => 1197
+    [curdate] => 2013-04-14
+    [timestamp] => 1365921156
+)
+
+			Time : 14-04-13 08:34:39
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 22300
+    [user_cash] => 1202
+    [curdate] => 2013-04-14
+    [timestamp] => 1365921279
+)
+
+			Time : 14-04-13 08:38:01
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 22400
+    [user_cash] => 1207
+    [curdate] => 2013-04-14
+    [timestamp] => 1365921481
+)
+
+			Time : 14-04-13 08:40:47
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 22500
+    [user_cash] => 1197
+    [curdate] => 2013-04-14
+    [timestamp] => 1365921647
+)
+
+			Time : 14-04-13 08:45:28
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 22600
+    [user_cash] => 1202
+    [curdate] => 2013-04-14
+    [timestamp] => 1365921928
+)
+
+			Time : 14-04-13 08:56:49
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 22700
+    [user_cash] => 1192
+    [curdate] => 2013-04-14
+    [timestamp] => 1365922609
+)
+
+			Time : 14-04-13 08:57:24
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 22800
+    [user_cash] => 1197
+    [curdate] => 2013-04-14
+    [timestamp] => 1365922644
+)
+
+			Time : 14-04-13 09:01:34
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 22900
+    [user_cash] => 1187
+    [curdate] => 2013-04-14
+    [timestamp] => 1365922894
+)
+
+			Time : 14-04-13 09:04:01
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23000
+    [user_cash] => 1192
+    [curdate] => 2013-04-14
+    [timestamp] => 1365923041
+)
+
+			Time : 14-04-13 09:10:40
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23100
+    [user_cash] => 1182
+    [curdate] => 2013-04-14
+    [timestamp] => 1365923440
+)
+
+			Time : 14-04-13 09:13:23
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23200
+    [user_cash] => 1172
+    [curdate] => 2013-04-14
+    [timestamp] => 1365923603
+)
+
+			Time : 14-04-13 09:13:51
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23300
+    [user_cash] => 1177
+    [curdate] => 2013-04-14
+    [timestamp] => 1365923631
+)
+
+			Time : 14-04-13 09:14:16
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23400
+    [user_cash] => 1187
+    [curdate] => 2013-04-14
+    [timestamp] => 1365923656
+)
+
+			Time : 14-04-13 09:15:21
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23500
+    [user_cash] => 1197
+    [curdate] => 2013-04-14
+    [timestamp] => 1365923721
+)
+
+			Time : 14-04-13 09:27:11
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23600
+    [user_cash] => 1202
+    [curdate] => 2013-04-14
+    [timestamp] => 1365924431
+)
+
+			Time : 14-04-13 09:30:28
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23600
+    [user_cash] => 1202
+    [curdate] => 2013-04-14
+    [timestamp] => 1365924628
+)
+
+			Time : 14-04-13 09:37:26
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23700
+    [user_cash] => 1182
+    [curdate] => 2013-04-14
+    [timestamp] => 1365925046
+)
+
+			Time : 14-04-13 09:39:14
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23800
+    [user_cash] => 1172
+    [curdate] => 2013-04-14
+    [timestamp] => 1365925154
+)
+
+			Time : 14-04-13 09:41:49
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 23900
+    [user_cash] => 1162
+    [curdate] => 2013-04-14
+    [timestamp] => 1365925309
+)
+
+			Time : 14-04-13 10:45:09
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 24000
+    [user_cash] => 1167
+    [curdate] => 2013-04-14
+    [timestamp] => 1365929109
+)
+
+			Time : 14-04-13 10:46:02
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 24100
+    [user_cash] => 1157
+    [curdate] => 2013-04-14
+    [timestamp] => 1365929162
+)
+
+			Time : 14-04-13 10:48:51
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 24200
+    [user_cash] => 1155
+    [curdate] => 2013-04-14
+    [timestamp] => 1365929331
+)
+
+			Time : 14-04-13 10:49:48
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 24300
+    [user_cash] => 1160
+    [curdate] => 2013-04-14
+    [timestamp] => 1365929388
+)
+
+			Time : 14-04-13 10:51:23
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 24400
+    [user_cash] => 1150
+    [curdate] => 2013-04-14
+    [timestamp] => 1365929483
+)
+
+			Time : 14-04-13 10:53:09
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 24500
+    [user_cash] => 1140
+    [curdate] => 2013-04-14
+    [timestamp] => 1365929589
+)
+
+			Time : 14-04-13 10:56:51
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 24600
+    [user_cash] => 1145
+    [curdate] => 2013-04-14
+    [timestamp] => 1365929811
+)
+
+			Time : 14-04-13 11:15:27
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 24800
+    [user_cash] => 1143
+    [curdate] => 2013-04-14
+    [timestamp] => 1365930927
+)
+
+			Time : 14-04-13 11:16:44
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 24800
+    [user_cash] => 1143
+    [curdate] => 2013-04-14
+    [timestamp] => 1365931004
+)
+
+			Time : 14-04-13 11:20:45
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 25100
+    [user_cash] => 1158
+    [curdate] => 2013-04-14
+    [timestamp] => 1365931245
+)
+
+			Time : 14-04-13 11:24:00
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 25400
+    [user_cash] => 1144
+    [curdate] => 2013-04-14
+    [timestamp] => 1365931440
+)
+
+			Time : 14-04-13 11:24:20
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 25400
+    [user_cash] => 1144
+    [curdate] => 2013-04-14
+    [timestamp] => 1365931460
+)
+
+			Time : 14-04-13 11:24:57
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 25500
+    [user_cash] => 1132
+    [curdate] => 2013-04-14
+    [timestamp] => 1365931497
+)
+
+			Time : 14-04-13 11:27:55
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 25600
+    [user_cash] => 1128
+    [curdate] => 2013-04-14
+    [timestamp] => 1365931675
+)
+
+			Time : 14-04-13 11:29:35
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 25700
+    [user_cash] => 1123
+    [curdate] => 2013-04-14
+    [timestamp] => 1365931775
+)
+
+			Time : 14-04-13 11:30:52
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 25700
+    [user_cash] => 1123
+    [curdate] => 2013-04-14
+    [timestamp] => 1365931852
+)
+
+			Time : 14-04-13 01:58:43
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 25800
+    [user_cash] => 1131
+    [curdate] => 2013-04-14
+    [timestamp] => 1365940723
+)
+
+			Time : 14-04-13 02:01:31
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 25900
+    [user_cash] => 1121
+    [curdate] => 2013-04-14
+    [timestamp] => 1365940891
+)
+
+			Time : 14-04-13 02:04:38
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 26000
+    [user_cash] => 1111
+    [curdate] => 2013-04-14
+    [timestamp] => 1365941078
+)
+
+			Time : 14-04-13 02:06:01
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 26100
+    [user_cash] => 1091
+    [curdate] => 2013-04-14
+    [timestamp] => 1365941161
+)
+
+			Time : 14-04-13 02:14:21
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 26200
+    [user_cash] => 1101
+    [curdate] => 2013-04-14
+    [timestamp] => 1365941661
+)
+
+			Time : 14-04-13 02:16:03
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 26200
+    [user_cash] => 1101
+    [curdate] => 2013-04-14
+    [timestamp] => 1365941763
+)
+
+			Time : 14-04-13 02:24:40
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 26300
+    [user_cash] => 1081
+    [curdate] => 2013-04-14
+    [timestamp] => 1365942280
+)
+
+			Time : 14-04-13 02:31:31
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 26800
+    [user_cash] => 1081
+    [curdate] => 2013-04-14
+    [timestamp] => 1365942691
+)
+
+			Time : 14-04-13 02:44:13
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 26900
+    [user_cash] => 1086
+    [curdate] => 2013-04-14
+    [timestamp] => 1365943453
+)
+
+			Time : 14-04-13 02:49:48
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 27000
+    [user_cash] => 1096
+    [curdate] => 2013-04-14
+    [timestamp] => 1365943788
+)
+
+			Time : 14-04-13 02:52:54
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 27200
+    [user_cash] => 1086
+    [curdate] => 2013-04-14
+    [timestamp] => 1365943974
+)
+
+			Time : 14-04-13 02:55:45
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 27400
+    [user_cash] => 1076
+    [curdate] => 2013-04-14
+    [timestamp] => 1365944145
+)
+
+			Time : 14-04-13 03:01:07
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 28200
+    [user_cash] => 1081
+    [curdate] => 2013-04-14
+    [timestamp] => 1365944467
+)
+
+			Time : 14-04-13 03:58:29
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 28300
+    [user_cash] => 1081
+    [curdate] => 2013-04-14
+    [timestamp] => 1365947909
+)
+
+			Time : 14-04-13 04:02:26
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 28900
+    [user_cash] => 1071
+    [curdate] => 2013-04-14
+    [timestamp] => 1365948146
+)
+
+			Time : 14-04-13 04:11:38
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 29900
+    [user_cash] => 1061
+    [curdate] => 2013-04-14
+    [timestamp] => 1365948698
+)
+
+			Time : 14-04-13 04:34:38
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 30100
+    [user_cash] => 1061
+    [curdate] => 2013-04-14
+    [timestamp] => 1365950078
+)
+
+			Time : 14-04-13 04:44:39
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 30200
+    [user_cash] => 1061
+    [curdate] => 2013-04-14
+    [timestamp] => 1365950679
+)
+
+			Time : 14-04-13 04:46:27
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 30300
+    [user_cash] => 1061
+    [curdate] => 2013-04-14
+    [timestamp] => 1365950787
+)
+
+			Time : 14-04-13 04:47:59
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 30500
+    [user_cash] => 1061
+    [curdate] => 2013-04-14
+    [timestamp] => 1365950879
+)
+
+			Time : 14-04-13 04:55:24
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 30900
+    [user_cash] => 1061
+    [curdate] => 2013-04-14
+    [timestamp] => 1365951324
+)
+
+			Time : 14-04-13 05:06:48
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 31300
+    [user_cash] => 1059
+    [curdate] => 2013-04-14
+    [timestamp] => 1365952008
+)
+
+			Time : 14-04-13 05:09:50
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 10
+    [user_name] => Cloud
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100003753977679/picture
+    [user_score] => 31500
+    [user_cash] => 1069
+    [curdate] => 2013-04-14
+    [timestamp] => 1365952190
+)
+
+			Time : 20-04-13 06:55:47
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 7
+    [user_name] => Trimikha Valentius
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100001748877562/picture
+    [user_score] => 
+    [user_cash] => 1000
+    [curdate] => 2013-04-20
+    [timestamp] => 1366476947
+)
+
+			Time : 20-04-13 06:56:38
+Array : Array
+(
+    [0] => flashcontroller.get_userdata
+    [user_id] => 7
+    [user_name] => Trimikha Valentius
+    [user_status] => 1
+    [user_pic] => https://graph.facebook.com/100001748877562/picture
+    [user_score] => 
+    [user_cash] => 1000
+    [curdate] => 2013-04-20
+    [timestamp] => 1366476998
+)

@@ -1,0 +1,48 @@
+/*Begin Table Area */
+.table_default{
+ width:100%;
+ border-bottom:1px solid #9097A9;
+ padding:0;
+ margin:0;
+ border:1px solid #9097A9;
+}
+
+.table_default tr td {
+ border: 1px solid white;
+}
+
+.table_default th{
+ background:#c8c8c8;
+}
+
+.table_default tr:nth-child(even) {background: #ececec}
+.table_default tr:nth-child(odd) {background: #FFF}
+
+.table_default .number{
+ background:#000000;
+ color:#FFFFFF;
+ width:10px;
+}
+
+.table_default td{
+ padding:5px;
+}
+
+.table_default .group{
+ font-size:14px;
+ font-weight:bold;
+ background:#808080;
+ color:WHITE;
+}
+
+.table_default .total{
+ color:WHITE;
+ background:BLACK;
+}
+
+.table_default  .note {
+    font-size: 10px;
+    font-style: italic;
+    color:#5b5b5b;
+}
+/*End Table Area */

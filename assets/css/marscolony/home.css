@@ -1,0 +1,65 @@
+.home-wrapper {
+	width: 750px;
+	
+	color: white;
+	margin-left: auto ;
+  	margin-right: auto ;
+
+  	border: solid 1px black;
+}
+
+.logo-home {
+	width: 190px;
+	height: 130px;
+
+
+
+	border: solid 1px black;
+}
+
+.home-navigation {
+	margin-top: 24px;
+	width: 704px;
+	height: 30px;
+	text-align: center;
+	margin-left: auto ;
+  	margin-right: auto ;
+
+	/*border: solid 1px black;*/
+}
+
+.home-main-content {
+	margin-top: 24px;
+	width: 728px;
+	height: 484px;
+	text-align: center;
+	margin-left: auto ;
+  	margin-right: auto ;
+
+	/*border: solid 1px black;*/
+}
+
+.home-main-content-bg {
+	position: absolute;
+}
+
+.home-main-content-nav {
+	padding-top: 24px;
+	margin-left: auto ;
+  	margin-right: auto ;
+	
+	width: 660px;
+	height: 68px;
+	position: relative;
+	border: solid 1px black;
+}
+
+.home-content-about {
+	width: 304px;
+	height: 298px;
+}
+
+.home-content-media {
+	width: 304px;
+	height: 298px;
+}

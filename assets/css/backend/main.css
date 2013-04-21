@@ -1,0 +1,160 @@
+/* Global Element */
+html{
+	height:100%;
+}
+
+body{
+	margin:0; padding:0;
+	height:100%;
+	font-family:Tahoma;
+	font-size:14px;
+}
+
+p {	margin:0; padding:0; }
+
+a {
+	text-decoration:none;
+	color:#20277d;
+}
+a:hover{
+	color:#3960c6;
+}
+
+/*-----------------------------------------------------------*/
+
+header {
+	border-bottom:2px solid #7f7f7f;
+}
+.header_separator{
+	border-top:2px solid #b1b1b1;
+	border-bottom:2px solid #cfcfcf;
+	width:100%;
+}
+.header_wrapper{
+	margin:auto;
+	width:1024px;
+}
+.header_position {
+	margin:auto;
+	width:900px;
+}
+.header_left {
+	height:80px;
+	position:relative;
+	width:345px;
+	border-right:5px solid #7f7f7f;
+}
+.header_right {
+	border-left:5px solid #dfdfdf;
+	height:80px;
+	width:545px;
+}
+.header_language, .header_language a{
+	text-decoration:none;
+}
+.header_welcome{
+	position:absolute;
+	bottom:0;
+	max-width:300px;
+}
+.header_title {
+	width:100px;
+	margin:auto;
+	margin-top:10px;
+	font-size:24px;
+}
+
+.main_wrapper {
+	margin:auto;
+	width:1024px;
+}
+.main_position {
+	margin:auto;
+	width:900px;
+}
+
+.nav_wrapper {
+	height:50px;
+}
+nav {
+}
+
+.content {
+	min-height:300px;
+	border:3px ridge;
+	padding:10px;
+	margin:10px 0 10px 0;
+}
+
+.content_nav {
+	width:600px;
+	border:1px solid #e5e5e5;
+	background-color:#f0f0f0;
+	padding:5px;
+}
+
+.message_error {
+	border-radius: 5px;
+	background-color:#f25b5b;
+	color:#fffbfb;
+	text-align:center;
+	padding:10px;
+}
+
+.message_success {
+	border-radius: 5px;
+	background-color:#77fb7d;
+	color:#496464;
+	text-align:center;
+	padding:10px;
+}
+
+.message_general {
+	border-radius: 5px;
+	background-color:#84fff9;
+	color:#000000;
+	text-align:center;
+	padding:10px;
+}
+
+footer {
+	border-top:4px solid #727272;
+	background-color:#7f7f7f;
+	border-bottom:4px solid #727272;
+}
+.footer_separator{
+	border-top:4px solid #cfcfcf;
+	border-bottom:4px solid #b1b1b1;
+	width:100%;
+}
+.footer_bottom{
+	border-bottom:4px solid #cfcfcf;
+	border-top:4px solid #b1b1b1;
+	width:100%;
+}
+.footer_wrapper{
+	margin:auto;
+	width:1024px;
+}
+.footer_position {
+	margin:auto;
+	width:900px;
+}
+.footer_content {
+	text-align:center;
+	color:white;
+}
+
+/* AJAX Paging */
+.chenx_ajax_paging, .chenx_ajax_paging_selected {
+	border:1px solid #e1f1ff;
+	border-radius:5px;
+	margin:2px;
+	padding:2px;
+	cursor:pointer;
+}
+
+.chenx_ajax_paging_selected {
+	background-color:#350df2;
+	color:white;
+}

@@ -1,0 +1,50 @@
+body{
+}
+
+.main_position {
+	margin:auto;
+	width:900px;
+}
+
+.main_wrapper {
+}
+
+header {
+	border:1px solid #95f4f0;
+	border-radius:10px;
+}
+
+nav {
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+.content {
+	min-height:300px;
+	border:1px solid #95f4f0;
+	border-radius:10px;	
+}
+
+.message_error {
+	border-radius: 5px;
+	background-color:#f25b5b;
+	color:#fffbfb;
+	text-align:center;
+	padding:10px;
+}
+
+.message_success {
+	border-radius: 5px;
+	background-color:#77fb7d;
+	color:#496464;
+	text-align:center;
+	padding:10px;
+}
+
+.message_general {
+	border-radius: 5px;
+	background-color:#84fff9;
+	color:#000000;
+	text-align:center;
+	padding:10px;
+}
